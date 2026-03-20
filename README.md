@@ -300,7 +300,7 @@ Designed for **sub-3-minute sign-up** on mobile, in Hindi and English:
 
 ## 🎬 Demo Video
 
-📹 **[Watch the GigShield Phase 1 Prototype Walkthrough](#)**
+📹 **[Watch the GigShield Phase 1 Prototype Walkthrough](https://youtube.com/shorts/zfXRVZexjsU?si=8nvd2x0sCY__LVMH)**
 > *(Link will be updated after video upload)*
 
 The 2-minute video covers:
